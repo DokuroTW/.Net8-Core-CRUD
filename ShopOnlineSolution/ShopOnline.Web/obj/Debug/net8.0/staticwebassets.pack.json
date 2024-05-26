@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\obj\\Debug\\net8.0\\compressed\\73tujwntqq.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShopOnline.Web.styles.css",
+      "PackagePath": "staticwebassets\\ShopOnline.Web.styles.css"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty1.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty1.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty2.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty2.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty3.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty3.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty4.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty4.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty5.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty5.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\Electronics1.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics1.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\Electronics3.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics3.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronic4.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic4.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronic5.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic5.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronics2.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronics2.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\technology6.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\technology6.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture1.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture2.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture3.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture4.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture6.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture7.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes1.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes2.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes3.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes5.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes6.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\shoes4.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\asp.net core web api\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopOnline.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopOnline.Web.props",
+      "PackagePath": "build\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopOnline.Web.props",
+      "PackagePath": "buildMultiTargeting\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopOnline.Web.props",
+      "PackagePath": "buildTransitive\\ShopOnline.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
